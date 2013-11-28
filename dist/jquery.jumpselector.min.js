@@ -1,7 +1,7 @@
 /*! jquery.jumpselector.js (git@github.com:oosugi20/jquery.jumpselectork.js.git)
-* select要素の選択でvalueの値に遷移
+ * select要素の選択でvalueの値に遷移
  * lastupdate: 2013-11-28
- * version: 0.0.0
+ * version: 0.1.0
  * author: Makoto OOSUGI
  * License: MIT
  */
